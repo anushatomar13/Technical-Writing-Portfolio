@@ -25,7 +25,7 @@ Opened Issue and Approved PR: https://github.com/kubernetes/website/pull/46528
 Issue and PR: https://github.com/OpenMined/writing/issues/203
 
 ## Technical Writing Experience-
-- I am a freelance technical writer at **Acceldata** , where I write technical articles on various topics under data science, and machine learning.
+- I am a freelance technical writer at **Acceldata** , where I write technical blogs on various topics under data science, and machine learning.
 - Previously, I have interned at Tricky Freaky as a technical writer. 
 
    
