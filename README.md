@@ -1,8 +1,11 @@
 # Technical-Writing-Portfolio
-## Medium Blogs
+## Technical Blogs
 
 [https://medium.com/@Banushatomar02130
 ](https://medium.com/@anushatomar02130)
+
+[[https://medium.com/@Banushatomar02130](https://hashnode.com/@anushatomar13)
+
 ## LFortan -
 
 Issue: https://github.com/lfortran/lfortran/issues/3956
@@ -25,7 +28,8 @@ Opened Issue and Approved PR: https://github.com/kubernetes/website/pull/46528
 Issue and PR: https://github.com/OpenMined/writing/issues/203
 
 ## Technical Writing Experience-
-- I am a freelance technical writer at **Acceldata** , where I write technical blogs on various topics under data science, and machine learning.
-- Previously, I have interned at Tricky Freaky as a technical writer. 
+1. **AccelData** : As a freelance technical writer, I created informative blogs on data science and machine learning topics.
+
+2. **Tricky Freaky** : Previously, I interned as a technical writer, honing my skills in crafting high-quality content.
 
    
