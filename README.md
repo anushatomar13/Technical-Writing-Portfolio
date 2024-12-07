@@ -1,10 +1,10 @@
 # Technical-Writing-Portfolio
 ## Technical Blogs
 
-[https://medium.com/@Banushatomar02130
+[https://medium.com/@anushatomar02130
 ](https://medium.com/@anushatomar02130)
 
-[[https://medium.com/@Banushatomar02130](https://hashnode.com/@anushatomar13)
+[https://hashnode.com/@anushatomar13](https://hashnode.com/@anushatomar13)
 
 ## LFortan -
 
